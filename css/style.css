@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{font-family: 'Open Sans', sans-serif;}
+
+
+body{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #B1E1FF;
+
+
+}
+.caixinha{
+    background-color:  #9C9EFE ;
+    padding: 5%;
+    border-radius: 10px;
+}
+
+
+.calcular{
+    margin-top: 15%;
+    border-style: none;
+    cursor: pointer;
+    font-size: large;
+    width: 30%;
+    height: 30px;
+    background-color: #ffb6fa;
+    border-radius: 10px;
+}
+
