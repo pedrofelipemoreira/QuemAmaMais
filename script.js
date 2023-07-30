@@ -20,7 +20,7 @@
         console.log("NEGATIVOOO?? Bora apague e escreva novamente, para eu não apagar você da sua vida vaa.")
 
         Swal.fire({
-            imageUrl: '/images/apague.gif',
+            imageUrl: 'images/apague.gif',
             title: 'NEGATIVOOO??',
             text:' Bora apague e escreva novamente, para eu não apagar você da sua vida',
             confirmButtonText: 'Bora Vaa'
@@ -31,7 +31,7 @@
         console.log("Seu namorado se encontra em depressão após saber que seu amor por ele é zero ☹ ")
 
         Swal.fire({
-            imageUrl: '/images/coreanaTriste.jpg',
+            imageUrl: 'images/coreanaTriste.jpg',
             title: 'ZERO...',
             text:' Seu namorado se encontra em depressão após saber que seu amor por ele é zero ☹',
             confirmButtonText: 'blz'
@@ -42,7 +42,7 @@
         console.log("O valor inserido é muito baixo, seu namorado vai chorar se ficar sabendo disso. Favor inserir um valor decente.");
 
         Swal.fire({
-            imageUrl: '/images/coreanaTriste.jpg',
+            imageUrl: 'images/coreanaTriste.jpg',
             title: '📉',
             text:' O valor inserido é muito baixo, seu namorado vai chorar se ficar sabendo disso. Favor inserir um valor decente.',
             confirmButtonText: '👎'
@@ -54,7 +54,7 @@
         console.log("Seu namorado definitivamente te ama mais.")
 
         Swal.fire({
-            imageUrl: '/images/coreanaAguinha.webp' ,
+            imageUrl: 'images/coreanaAguinha.webp' ,
             title: '💁‍♂️',
             text:' Seu namorado definitivamente te ama mais.',
             confirmButtonText: 'melhore'
@@ -65,7 +65,7 @@
         console.log("Eeeee você ama um poquinho ele, mas ele te ama mais.");
 
         Swal.fire({
-            imageUrl: '/images/pequeno.gif' ,
+            imageUrl: 'images/pequeno.gif' ,
             title: 'Ainda Não',
             text:' Eeeee você ama um poquinho ele, mas ele te ama mais.',
             confirmButtonText: 'Pouco né'
@@ -77,7 +77,7 @@
         console.log("Até que você ama bastantinho, mas seu namorado com certeza ainda ama mais. ");
 
         Swal.fire({
-            imageUrl: '/images/CoreanaSovete.gif' ,
+            imageUrl: 'images/CoreanaSovete.gif' ,
             title: 'Rum interessante',
             text:' Até que você ama bastantinho, mas seu namorado com certeza ainda ama mais.',
             confirmButtonText: 'Tá melhorado'
@@ -89,7 +89,7 @@
         console.log("Vemos que você ama seu namorado, mas ainda sim ele te ama bem maais.");
 
         Swal.fire({
-            imageUrl: '/images/coreanaSorrindo.jpg' ,
+            imageUrl: 'images/coreanaSorrindo.jpg' ,
             title: 'Oiaa quanto amor',
             text:' Vemos que você ama seu namorado, mas ainda sim ele te ama bem maais.',
             confirmButtonText: 'melhorouu'
@@ -102,7 +102,7 @@
         Swal.fire({
             title: 'Boa Tentativa',
             text: "Mas o amor do seu namorado por você, cujo valor beira o infinito, ainda é maior.", 
-            imageUrl: '/images/coreanaFeliz.gif',
+            imageUrl: 'images/coreanaFeliz.gif',
             confirmButtonText: 'Um beijo da anitta',
             width: 600,
             padding: '3em',
