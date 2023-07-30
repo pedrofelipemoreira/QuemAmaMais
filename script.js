@@ -1,6 +1,7 @@
 
 
   document.getElementById('calcular').onclick = function(){
+    
 
     let valor = document.getElementById('valor').value;
   
